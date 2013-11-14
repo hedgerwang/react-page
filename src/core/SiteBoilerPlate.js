@@ -70,7 +70,7 @@ var SiteBoilerPlate = React.createClass({
     return (
       <html>
         <ReactStyleHead>
-          <meta charset="UTF-8" />
+          <meta charset="utf-8" /> 
           <title>React Page | Client-Server JavaScript Rendering</title>
           <meta
             name="viewport"
